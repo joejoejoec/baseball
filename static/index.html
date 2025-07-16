@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>WHBSA 9U Blue Situational Game</title>
+  <link rel="icon" type="image/webp" href="WHBSA_logo-bats_200px.webp">
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+  <div class="app-wrapper">
+    <h1>WHBSA 9U Blue Situational Game</h1>
+
+    <div class="start-screen">
+      <div class="question-box">
+        <label for="playerSelect">Select Your Name:</label>
+        <select id="playerSelect">
+          <option value="">--Choose Player--</option>
+          <option>Gavin</option>
+          <option>Josh</option>
+          <option>Michael</option>
+          <option>Owen</option>
+          <option>Sami</option>
+          <option>Mateo</option>
+          <option>Scott</option>
+          <option>Henry</option>
+          <option>Mark</option>
+        </select>
+        <button onclick="startGame()">Start Game</button>
+      </div>
+    </div>
+
+    <div class="question-box hidden" id="quizBox">
+      <div id="questionText"></div>
+      <div id="questionImage" class="question-image"></div>
+      <div id="options"></div>
+      <div id="feedback"></div>
+    </div>
+
+    <div class="scoreboard hidden" id="scoreBoard">
+      <h2>Game Over!</h2>
+      <p id="finalScore"></p>
+      <h3>Top 10 Scores</h3>
+      <ol id="topScores"></ol>
+      <button onclick="location.reload()">Play Again</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

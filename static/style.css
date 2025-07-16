@@ -1,0 +1,117 @@
+/* Reset page layout */
+html, body, .app-wrapper {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+
+.app-wrapper {
+  position: relative; /* 👈 IMPORTANT: allows ::before to anchor */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  padding-top: 40px;
+  z-index: 1; /* Keep content above the logo */
+}
+
+.app-wrapper::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('WHBSA_logo-bats_200px.png') no-repeat center center;
+  background-size: 500px auto; /* 25% larger */
+  opacity: 0.07;
+  z-index: 0;
+  pointer-events: none;
+}
+
+
+/* Main title */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Start screen layout */
+.start-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+/* Main box container */
+.question-box, .scoreboard {
+  width: 300px;
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.question-box, .scoreboard {
+  position: relative;
+  z-index: 1; /* 👈 This ensures they're above the background */
+}
+
+
+/* Inputs and buttons */
+.question-box select,
+.question-box button {
+  width: 90%;
+  margin: 0.5rem auto;
+  font-size: 1rem;
+  padding: 0.5rem;
+  display: block;
+}
+
+/* Option button styling */
+.option-btn {
+  background-color: #f0f0f0;
+  color: black;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.option-btn:hover {
+  background-color: #d0d0d0;
+}
+
+/* General buttons */
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Hidden elements */
+.hidden {
+  display: none;
+}
+
+.question-image {
+  max-width: 100%;
+  height: auto;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
