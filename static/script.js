@@ -18,12 +18,16 @@ async function startGame() {
   document.querySelector(".start-screen").classList.add("hidden");
   document.getElementById("quizBox").classList.remove("hidden");
 
-  const response = await fetch("questions.json");
-  const data = await response.json();
-  allQuestions = Object.values(data).flat();
-  selectedQuestions = shuffle(allQuestions).slice(0, totalQuestions);
-
-  showQuestion();
+  try {
+    const response = await fetch("/api/questions");
+    const data = await response.json();
+    allQuestions = Object.values(data).flat();
+    selectedQuestions = shuffle(allQuestions).slice(0, totalQuestions);
+    showQuestion();
+  } catch (err) {
+    alert("Failed to load questions from the server.");
+    console.error(err);
+  }
 }
 
 function showQuestion() {
@@ -38,7 +42,6 @@ function showQuestion() {
     imageBox.innerHTML = ""; // fallback
   }
 
-  // Reset options
   const optionsBox = document.getElementById("options");
   const feedback = document.getElementById("feedback");
   optionsBox.innerHTML = "";
@@ -53,7 +56,6 @@ function showQuestion() {
     optionsBox.appendChild(btn);
   });
 }
-
 
 function checkAnswer(selected, correct) {
   const feedback = document.getElementById("feedback");
@@ -115,7 +117,6 @@ function updateScoreboard() {
   const scoreboardDiv = document.getElementById("scoreboard");
   const storedScores = JSON.parse(localStorage.getItem("scores")) || [];
 
-  // Get highest score for each player
   const highestScoresMap = {};
   storedScores.forEach(entry => {
     if (!highestScoresMap[entry.name] || entry.score > highestScoresMap[entry.name]) {
@@ -123,14 +124,10 @@ function updateScoreboard() {
     }
   });
 
-  // Convert map to array
   const uniqueHighScores = Object.entries(highestScoresMap).map(([name, score]) => ({ name, score }));
-
-  // Sort descending and take top 10
   uniqueHighScores.sort((a, b) => b.score - a.score);
   const topScores = uniqueHighScores.slice(0, 10);
 
-  // Render fresh scoreboard
   scoreboardDiv.innerHTML = `
     <h3>Top 10 Scores</h3>
     <ul>
@@ -141,9 +138,7 @@ function updateScoreboard() {
   `;
 }
 
-
 function playAgain() {
   document.querySelector(".score-screen").style.display = "none";
   document.querySelector(".start-screen").style.display = "block";
 }
-
