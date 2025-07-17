@@ -10,7 +10,7 @@
       "Home Plate"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
       "Home Plate"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
       "Home Plate"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 9,
@@ -114,7 +114,7 @@
       "Home Plate"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
       "Home Plate"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
       "Home Plate"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
       "Home Plate"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
       "Home Plate"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
       "Home Plate"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
       "Home Plate"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 20,
@@ -257,7 +257,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/right_field.gif"
+    "image": "/images/right_field.gif"
   },
   {
     "id": 21,
@@ -270,7 +270,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 22,
@@ -283,7 +283,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 23,
@@ -296,7 +296,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 24,
@@ -309,7 +309,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 25,
@@ -322,7 +322,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 26,
@@ -335,7 +335,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 27,
@@ -348,7 +348,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 28,
@@ -361,7 +361,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 29,
@@ -374,7 +374,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 30,
@@ -387,7 +387,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 31,
@@ -400,7 +400,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 32,
@@ -413,7 +413,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 33,
@@ -426,7 +426,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 34,
@@ -439,7 +439,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 35,
@@ -452,7 +452,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 36,
@@ -465,7 +465,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 37,
@@ -478,7 +478,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 38,
@@ -491,7 +491,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 39,
@@ -504,7 +504,7 @@
       "Home Plate"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 40,
@@ -517,7 +517,7 @@
       "Shortstop"
     ],
     "correct_answer": "Shortstop",
-    "image": "static/images/left_field.gif"
+    "image": "/images/left_field.gif"
   },
   {
     "id": 41,
@@ -530,7 +530,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 42,
@@ -543,7 +543,7 @@
       "Pitcher"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 43,
@@ -556,7 +556,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 44,
@@ -569,7 +569,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 45,
@@ -582,7 +582,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 46,
@@ -595,7 +595,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 47,
@@ -608,7 +608,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 48,
@@ -621,7 +621,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 49,
@@ -634,7 +634,7 @@
       "Pitcher"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 50,
@@ -647,7 +647,7 @@
       "Pitcher"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 51,
@@ -660,7 +660,7 @@
       "Pitcher"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 52,
@@ -673,7 +673,7 @@
       "Pitcher"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 53,
@@ -686,7 +686,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 54,
@@ -699,7 +699,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 55,
@@ -712,7 +712,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 56,
@@ -725,7 +725,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 57,
@@ -738,7 +738,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 58,
@@ -751,7 +751,7 @@
       "Pitcher"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 59,
@@ -764,7 +764,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 60,
@@ -777,7 +777,7 @@
       "Pitcher"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/center_field.gif"
+    "image": "/images/center_field.gif"
   },
   {
     "id": 61,
@@ -790,7 +790,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 62,
@@ -803,7 +803,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 63,
@@ -816,7 +816,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 64,
@@ -829,7 +829,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 65,
@@ -842,7 +842,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 66,
@@ -855,7 +855,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 67,
@@ -868,7 +868,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 68,
@@ -881,7 +881,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 69,
@@ -894,7 +894,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 70,
@@ -907,7 +907,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 71,
@@ -920,7 +920,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 72,
@@ -933,7 +933,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 73,
@@ -946,7 +946,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 74,
@@ -959,7 +959,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 75,
@@ -972,7 +972,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 76,
@@ -985,7 +985,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 77,
@@ -998,7 +998,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 78,
@@ -1011,7 +1011,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 79,
@@ -1024,7 +1024,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 80,
@@ -1037,7 +1037,7 @@
       "First Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/pitcher.gif"
+    "image": "/images/pitcher.gif"
   },
   {
     "id": 81,
@@ -1050,7 +1050,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 82,
@@ -1063,7 +1063,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 83,
@@ -1076,7 +1076,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 84,
@@ -1089,7 +1089,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 85,
@@ -1102,7 +1102,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 86,
@@ -1115,7 +1115,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 87,
@@ -1128,7 +1128,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 88,
@@ -1141,7 +1141,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 89,
@@ -1154,7 +1154,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 90,
@@ -1167,7 +1167,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 91,
@@ -1180,7 +1180,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 92,
@@ -1193,7 +1193,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 93,
@@ -1206,7 +1206,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 94,
@@ -1219,7 +1219,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 95,
@@ -1232,7 +1232,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 96,
@@ -1245,7 +1245,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 97,
@@ -1258,7 +1258,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 98,
@@ -1271,7 +1271,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 99,
@@ -1284,7 +1284,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 100,
@@ -1297,7 +1297,7 @@
       "Third Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/catcher.gif"
+    "image": "/images/catcher.gif"
   },
   {
     "id": 101,
@@ -1310,7 +1310,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 102,
@@ -1323,7 +1323,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 103,
@@ -1336,7 +1336,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 104,
@@ -1349,7 +1349,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 105,
@@ -1362,7 +1362,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 106,
@@ -1375,7 +1375,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 107,
@@ -1388,7 +1388,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 108,
@@ -1401,7 +1401,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 109,
@@ -1414,7 +1414,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 110,
@@ -1427,7 +1427,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 111,
@@ -1440,7 +1440,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 112,
@@ -1453,7 +1453,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 113,
@@ -1466,7 +1466,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 114,
@@ -1479,7 +1479,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 115,
@@ -1492,7 +1492,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 116,
@@ -1505,7 +1505,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 117,
@@ -1518,7 +1518,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 118,
@@ -1531,7 +1531,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 119,
@@ -1544,7 +1544,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 120,
@@ -1557,7 +1557,7 @@
       "Throw to third"
     ],
     "correct_answer": "Catch and step on base",
-    "image": "static/images/1st_base.gif"
+    "image": "/images/1st_base.gif"
   },
   {
     "id": 121,
@@ -1570,7 +1570,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 122,
@@ -1583,7 +1583,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 123,
@@ -1596,7 +1596,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 124,
@@ -1609,7 +1609,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 125,
@@ -1622,7 +1622,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 126,
@@ -1635,7 +1635,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 127,
@@ -1648,7 +1648,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 128,
@@ -1661,7 +1661,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 129,
@@ -1674,7 +1674,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 130,
@@ -1687,7 +1687,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 131,
@@ -1700,7 +1700,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 132,
@@ -1713,7 +1713,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 133,
@@ -1726,7 +1726,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 134,
@@ -1739,7 +1739,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 135,
@@ -1752,7 +1752,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 136,
@@ -1765,7 +1765,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 137,
@@ -1778,7 +1778,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 138,
@@ -1791,7 +1791,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 139,
@@ -1804,7 +1804,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 140,
@@ -1817,7 +1817,7 @@
       "First Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/2nd_base.gif"
+    "image": "/images/2nd_base.gif"
   },
   {
     "id": 141,
@@ -1830,7 +1830,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 142,
@@ -1843,7 +1843,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 143,
@@ -1856,7 +1856,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 144,
@@ -1869,7 +1869,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 145,
@@ -1882,7 +1882,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 146,
@@ -1895,7 +1895,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 147,
@@ -1908,7 +1908,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 148,
@@ -1921,7 +1921,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 149,
@@ -1934,7 +1934,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 150,
@@ -1947,7 +1947,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 151,
@@ -1960,7 +1960,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 152,
@@ -1973,7 +1973,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 153,
@@ -1986,7 +1986,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 154,
@@ -1999,7 +1999,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 155,
@@ -2012,7 +2012,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 156,
@@ -2025,7 +2025,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 157,
@@ -2038,7 +2038,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 158,
@@ -2051,7 +2051,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 159,
@@ -2064,7 +2064,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 160,
@@ -2077,7 +2077,7 @@
       "Second Base"
     ],
     "correct_answer": "Home Plate",
-    "image": "static/images/3rd_base.gif"
+    "image": "/images/3rd_base.gif"
   },
   {
     "id": 161,
@@ -2090,7 +2090,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 162,
@@ -2103,7 +2103,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 163,
@@ -2116,7 +2116,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 164,
@@ -2129,7 +2129,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 165,
@@ -2142,7 +2142,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 166,
@@ -2155,7 +2155,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 167,
@@ -2168,7 +2168,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 168,
@@ -2181,7 +2181,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 169,
@@ -2194,7 +2194,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 170,
@@ -2207,7 +2207,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 171,
@@ -2220,7 +2220,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 172,
@@ -2233,7 +2233,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 173,
@@ -2246,7 +2246,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 174,
@@ -2259,7 +2259,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 175,
@@ -2272,7 +2272,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 176,
@@ -2285,7 +2285,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 177,
@@ -2298,7 +2298,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 178,
@@ -2311,7 +2311,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 179,
@@ -2324,7 +2324,7 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   },
   {
     "id": 180,
@@ -2337,6 +2337,6 @@
       "Second Base"
     ],
     "correct_answer": "Second Base",
-    "image": "static/images/shortstop.gif"
+    "image": "/images/shortstop.gif"
   }
 ]
