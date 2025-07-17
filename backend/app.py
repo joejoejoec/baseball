@@ -3,20 +3,26 @@ from flask_cors import CORS
 import os
 import json
 
-app = Flask(__name__, static_folder="static", static_url_path="")
+# Setup app to serve from /static
+app = Flask(__name__, static_folder="../static", static_url_path="")
 CORS(app)
 
-with open(os.path.join(os.path.dirname(__file__), "questions.json"), "r") as f:
+# Load questions
+questions_file_path = os.path.join(os.path.dirname(__file__), "questions.json")
+with open(questions_file_path, "r") as f:
     questions = json.load(f)
 
+# Serve API
 @app.route("/api/questions")
 def get_questions():
     return jsonify(questions)
 
+# Serve index.html
 @app.route("/")
-def serve_index():
-    return send_from_directory(app.static_folder, "index.html")
+def index():
+    return send_from_directory("../static", "index.html")
 
+# Serve other static files like script.js
 @app.route("/<path:path>")
-def serve_static(path):
-    return send_from_directory(app.static_folder, path)
+def static_files(path):
+    return send_from_directory("../static", path)
